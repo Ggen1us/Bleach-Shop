@@ -504,3 +504,8 @@ body::-webkit-scrollbar {
     margin-top: 5%;
     margin-left: 50%;
 }
+
+
+.btn-prev {
+    color: #000;
+}
